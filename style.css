@@ -1,0 +1,18 @@
+.container{
+    text-align: center;
+    margin-top: 20%;
+}
+button{
+    padding: 10px 15px 10px 15px;
+    border-radius:3px;
+    background-color:transparent;
+    border:1px solid gray;
+    color: gray;
+    font-size: 16px;
+    outline: none;
+    transition: 1s;
+}
+button:hover{
+  color: white; 
+  background-color: gray; 
+}
